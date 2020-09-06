@@ -1,4 +1,4 @@
-const words = ['Antonio.', 'A Husband. ', 'A Developer.', 'A Test.'];
+const words = ['Antonio.', 'A Husband. ', 'A Developer.'];
 
 let cursor = gsap.to('.cursor', {
 	opacity: 0,
